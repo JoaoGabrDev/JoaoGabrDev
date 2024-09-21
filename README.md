@@ -1,0 +1,3 @@
+- 👋 Hi, I’m João Gabriel!
+- 👀 I’m interested in Golang.
+- 📚 I’m currently learning Python, JAVA.
