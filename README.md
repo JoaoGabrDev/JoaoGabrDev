@@ -1,3 +1,3 @@
-- 👋 Hi, I’m João Gabriel!
-- 👀 I’m interested in Golang.
-- 📚 I’m currently learning Python, JAVA.
+- 👋 Olá, sou o João Gabriel!
+- 👀 Estou interessado na linguagem Golang.
+- 📚 Atualmente estou aprendendo Django e JAVA.
